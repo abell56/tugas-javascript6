@@ -1,0 +1,13 @@
+{
+  "name": "tugas-javascript6",
+  "version": "1.0.0",
+  "description": "Tugas Pertemuan 6 JS - Array of Objects & Controller Functions",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
